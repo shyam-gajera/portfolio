@@ -1,0 +1,328 @@
+{
+    "analyticsCode": "",
+    "pageLayout": "two-column",
+    "basics": {
+        "name": "Shyam Gajera",
+        "label": "Web Engineer",
+        "image": "/avatar.png",
+        "email": "shyamgajera007@gmail.com",
+        "url": "https://www.gcxstudio.cn",
+        "summary": "Born in 1996, I primarily work with PHP and JavaScript for full-stack development, and enjoy working with various technologies.",
+        "theme": "red",
+        "location": {
+            "address": "Ahmedabad",
+            "city": "Gujarat",
+            "countryCode": "IND",
+            "region": "India"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "icon": "mdi:linkedin",
+                "username": "shyam-gajera",
+                "url": "https://in.linkedin.com/in/shyam-gajera"
+            },
+            {
+                "network": "GitHub",
+                "icon": "mdi:github",
+                "username": "shyam-gajera",
+                "url": "https://github.com/shyam-gajera"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Gujarat Technological University",
+            "url": "",
+            "area": "Master of Computer Application",
+            "studyType": "Full-time student",
+            "startDate": "2016-01-01",
+            "endDate": "2018-01-01"
+        },
+        {
+            "institution": "Kadi Sarva Vishwavidyalaya",
+            "url": "",
+            "area": "Bachelor of Computer Applications",
+            "studyType": "Full-time student",
+            "startDate": "2013-01-01",
+            "endDate": "2016-01-01"
+        }
+    ],
+    "work": [
+        {
+            "name": "Uplers Solution",
+            "position": "Lead Developer",
+            "location_type": "Remote",
+            "location": null,
+            "url": "https://www.uplers.com/",
+            "startDate": "2022-12-01",
+            "endDate": null,
+            "summary": "",
+            "highlights": [
+                ""
+            ],
+            "responsibilities": [
+                "Act as the primary point of contact for clients, facilitating communication and ensuring project goals meets.",
+                "Manage a team of 10 members, overseeing project delivery and ensuring alignment with client objectives and timelines.",
+                "Develop and enhance plugins and website features for PHP , WordPress, JavaScript, and React based websites, ensuring timely updates in line with client requirements.",
+                "Troubleshoot and resolve a range of technical issues to maintain optimal website performance.",
+                "Conduct comprehensive code reviews and provide mentorship to improve coding standards and overall team efficiency.",
+                "Spearhead the implementation of best practices and innovative solutions to streamline development processes and enhance project outcomes."
+            ],
+            "skills": {
+                "PHP":"simple-icons:php",
+                "WordPress": "ri:wordpress-fill",
+                "SQL": "simple-icons:mysql",
+                "HTML": "simple-icons:html5",
+                "CSS": "ri:css3-fill",
+                "JavaScript": "simple-icons:javascript",
+                "jQuery": "simple-icons:jquery",
+                "React": "mdi:react",
+                "Astro": "simple-icons:astro",
+                "GitHub": "mdi:github",
+                "Git": "mdi:git",
+                "Docker": "mdi:docker"
+            }
+        },
+        {
+            "name": "Uplers Solution",
+            "position": "Senior WordPress Developer",
+            "location_type": "Remote",
+            "location": null,
+            "url": "https://www.uplers.com/",
+            "startDate": "2022-04-01",
+            "endDate": "2022-11-01",
+            "summary": "",
+            "highlights": [
+                ""
+            ],
+            "responsibilities": [
+                "Assisted the production, coding, deployment, and optimization of PHP , WordPress, and BigCommerce based websites, ensuring high-quality deliverables.",
+                "Managed troubleshooting and resolution of technical issues to maintain optimal website performance and reliability.",
+                "Collaborated with clients to gather requirements and provided technical consultations, delivering tailored solutions that meet their business needs."
+            ],
+            "achievements": [
+                "Recognized as 'UpStar of the Month' for outstanding performance and contributions to project success."
+            ],
+            "skills": {
+                "PHP":"simple-icons:php",
+                "WordPress": "ri:wordpress-fill",
+                "BigCommerce": "simple-icons:bigcommerce",
+                "SQL": "simple-icons:mysql",
+                "HTML": "simple-icons:html5",
+                "CSS": "ri:css3-fill",
+                "JavaScript": "simple-icons:javascript",
+                "jQuery": "simple-icons:jquery",
+                "GitHub": "mdi:github",
+                "Git": "mdi:git",
+                "Docker": "mdi:docker"
+            }
+        },
+        {
+            "name": "Uplers Solution",
+            "position": "WordPress Developer",
+            "location_type": null,
+            "location": "Ahmedabad, India",
+            "url": "https://www.uplers.com/",
+            "startDate": "2018-09-01",
+            "endDate": "2022-03-01",
+            "summary": "",
+            "highlights": [
+                ""
+            ],
+            "responsibilities": [
+                "Developed and optimized WordPress-based websites, ensuring high performance and responsiveness.",
+                "Created new features and implemented solutions to address client needs and enhance user experience.",
+                "Collaborated with the team to troubleshoot issues and integrate new functionalities, maintaining project timelines."
+            ],
+            "achievements": [
+                "Recognized as 'UpStar of the Month' four times; also acknowledged as a quarterly 'Top Performer' for outstanding contributions to project"
+            ],
+            "skills": {
+                "PHP":"simple-icons:php",
+                "WordPress": "ri:wordpress-fill",
+                "SQL": "simple-icons:mysql",
+                "HTML": "simple-icons:html5",
+                "CSS": "ri:css3-fill",
+                "JavaScript": "simple-icons:javascript",
+                "jQuery": "simple-icons:jquery",
+                "GitHub": "mdi:github",
+                "Git": "mdi:git"
+            }
+        },
+        {
+            "name": "KGN Technologies",
+            "position": "Junior Web Developer",
+            "location_type": null,
+            "location": "Ahmedabad, India",
+            "url": "https://kgntechnologies.com/",
+            "startDate": "2016-12-01",
+            "endDate": "2018-08-01",
+            "summary": "",
+            "highlights": [
+                ""
+            ],
+            "responsibilities": [
+                "Developed and maintained PHP-based websites to ensure optimal performance and user experience.",
+                "Collaborated with team members to implement new features and troubleshoot technical issues, enhancing overall functionality."
+            ],
+            "skills": {
+                "PHP": "simple-icons:php",
+                "SQL": "simple-icons:mysql",
+                "HTML": "simple-icons:html5",
+                "CSS": "ri:css3-fill",
+                "JavaScript": "simple-icons:javascript"
+            }
+        }
+    ],
+    "skills": [
+        {
+            "name": "PHP",
+            "icon": "simple-icons:php",
+            "level": "Intermediate",
+            "keywords": [
+                "Web Development",
+                "Backend",
+                "Fullstack"
+            ]
+        },
+        {
+            "name": "WordPress",
+            "icon": "simple-icons:wordpress",
+            "level": "Intermediate",
+            "keywords": [
+                "Web Development",
+                "Backend",
+                "Fullstack"
+            ]
+        },
+        {
+            "name": "BigCommerce",
+            "icon": "simple-icons:bigcommerce",
+            "level": "Intermediate",
+            "keywords": [
+                "Web Development",
+                "Backend",
+                "Fullstack"
+            ]
+        },
+        {
+            "name": "SQL",
+            "icon": "simple-icons:mysql",
+            "level": "Intermediate",
+            "keywords": [
+                "Databases",
+                "SQL",
+                "Data Storage",
+                "Backend"
+            ]
+        },
+        {
+            "name": "HTML",
+            "icon": "simple-icons:html5",
+            "level": "Intermediate",
+            "keywords": [
+                "Web Development",
+                "Frontend"
+            ]
+        },
+        {
+            "name": "CSS",
+            "icon": "ri:css3-fill",
+            "level": "Intermediate",
+            "keywords": [
+                "Web Development",
+                "Frontend",
+                "Responsive Design"
+            ]
+        },
+        {
+            "name": "JavaScript",
+            "icon": "simple-icons:javascript",
+            "level": "Expert",
+            "keywords": [
+                "Web Development",
+                "Frontend",
+                "Backend",
+                "Fullstack"
+            ]
+        },
+        {
+            "name": "jQuery",
+            "icon": "simple-icons:jquery",
+            "level": "Expert",
+            "keywords": [
+                "Web Development",
+                "Frontend",
+                "Backend",
+                "Fullstack"
+            ]
+        },
+        {
+            "name": "React",
+            "icon": "mdi:react",
+            "level": "Expert",
+            "keywords": [
+                "Web Development",
+                "Frontend",
+                "JavaScript Library",
+                "UI"
+            ]
+        },
+        {
+            "name": "Astro",
+            "icon": "simple-icons:astro",
+            "level": "Intermediate",
+            "keywords": [
+                "Web Development",
+                "Frontend",
+                "SSR",
+                "Static Generation"
+            ]
+        },
+        {
+            "name": "Git",
+            "icon": "mdi:git",
+            "level": "Intermediate",
+            "keywords": [
+                "Version Control",
+                "Collaboration",
+                "Source Code"
+            ]
+        },
+        {
+            "name": "GitHub",
+            "icon": "mdi:github",
+            "level": "Expert",
+            "keywords": [
+                "Version Control",
+                "Collaboration",
+                "Source Code",
+                "Git"
+            ]
+        },
+        {
+            "name": "Docker",
+            "icon": "mdi:docker",
+            "level": "Intermediate",
+            "keywords": [
+                "Virtual Environments",
+                "Backend"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Intermediate"
+        },
+        {
+            "language": "Hindi",
+            "fluency": "Fluent"
+        },
+        {
+            "language": "Gujarati",
+            "fluency": "Native speaker"
+        }
+    ]
+}
