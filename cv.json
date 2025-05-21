@@ -7,7 +7,7 @@
         "image": "/avatar.png",
         "email": "shyamgajera007@gmail.com",
         "url": "https://shyamgajera.netlify.app",
-        "summary": "Born in 1996, I primarily work with PHP and JavaScript for full-stack development, and enjoy working with various technologies.",
+        "summary": "Born in 1996, I primarily work with PHP, JavaScript, HTML and CSS for full-stack development, and enjoy working with various technologies.",
         "theme": "red",
         "location": {
             "address": "Ahmedabad",
@@ -37,7 +37,7 @@
             "area": "Master of Computer Application",
             "studyType": "Full-time student",
             "startDate": "2016-01-01",
-            "endDate": "2018-01-01"
+            "endDate": "2021-01-01"
         },
         {
             "institution": "Kadi Sarva Vishwavidyalaya",
@@ -62,12 +62,12 @@
                 ""
             ],
             "responsibilities": [
-                "Act as the primary point of contact for clients, facilitating communication and ensuring project goals meets.",
-                "Manage a team of 10 members, overseeing project delivery and ensuring alignment with client objectives and timelines.",
-                "Develop and enhance plugins and website features for PHP , WordPress, JavaScript, and React based websites, ensuring timely updates in line with client requirements.",
-                "Troubleshoot and resolve a range of technical issues to maintain optimal website performance.",
-                "Conduct comprehensive code reviews and provide mentorship to improve coding standards and overall team efficiency.",
-                "Spearhead the implementation of best practices and innovative solutions to streamline development processes and enhance project outcomes."
+                "Develop and enhance plugins and website features for PHP, WordPress, JavaScript, and React-based sites, ensuring timely updates that align with project requirements.",
+                "Serve as the primary contact for clients, facilitating communication and ensuring that project goals are met.",
+                "Manage a team of ten members, overseeing project delivery and ensuring alignment with client objectives and timelines.",
+                "Troubleshoot and resolve various technical issues to maintain optimal website performance.",
+                "Conduct thorough code reviews and provide mentorship to elevate coding standards and improve overall team efficiency.",
+                "Drive the implementation of best practices and innovative solutions to streamline development processes and enhance project outcomes."
             ],
             "skills": {
                 "PHP":"simple-icons:php",
@@ -97,12 +97,12 @@
                 ""
             ],
             "responsibilities": [
-                "Assisted the production, coding, deployment, and optimization of PHP , WordPress, and BigCommerce based websites, ensuring high-quality deliverables.",
-                "Managed troubleshooting and resolution of technical issues to maintain optimal website performance and reliability.",
-                "Collaborated with clients to gather requirements and provided technical consultations, delivering tailored solutions that meet their business needs."
+                "Supported the production, coding, deployment, and optimisation of websites built on PHP, WordPress, and BigCommerce, ensuring top-notch quality.",
+                "Oversaw the troubleshooting and resolution of technical issues to uphold optimal website performance and reliability.",
+                "Worked closely with clients to gather requirements and offered technical consultations, delivering customised solutions that align with their business needs."
             ],
             "achievements": [
-                "Recognized as 'UpStar of the Month' for outstanding performance and contributions to project success."
+                "Honoured as \"UpStar of the Month\" for exceptional performance and contributions to the success of projects."
             ],
             "skills": {
                 "PHP":"simple-icons:php",
@@ -131,12 +131,12 @@
                 ""
             ],
             "responsibilities": [
-                "Developed and optimized WordPress-based websites, ensuring high performance and responsiveness.",
-                "Created new features and implemented solutions to address client needs and enhance user experience.",
-                "Collaborated with the team to troubleshoot issues and integrate new functionalities, maintaining project timelines."
+                "Designed and enhanced WordPress websites, guaranteeing optimal performance and responsiveness.",
+                "Created new features and implemented solutions to meet client requirements and improve user experience.",
+                "Collaborated with the team to troubleshoot issues and integrate new functionalities while adhering to project timelines."
             ],
             "achievements": [
-                "Recognized as 'UpStar of the Month' four times; also acknowledged as a quarterly 'Top Performer' for outstanding contributions to project"
+                "Honoured as \"UpStar of the Month\" four times and recognised as a quarterly \"Top Performer\" for remarkable contributions to project success."
             ],
             "skills": {
                 "PHP":"simple-icons:php",
@@ -163,8 +163,8 @@
                 ""
             ],
             "responsibilities": [
-                "Developed and maintained PHP-based websites to ensure optimal performance and user experience.",
-                "Collaborated with team members to implement new features and troubleshoot technical issues, enhancing overall functionality."
+                "Created and managed PHP-based websites to optimize performance and enhance user experience.",
+                "Worked closely with team members to introduce new features and resolve technical challenges, thereby improving overall functionality."
             ],
             "skills": {
                 "PHP": "simple-icons:php",
